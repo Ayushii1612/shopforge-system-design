@@ -1,0 +1,1 @@
+package com.shop.inventory.domain;
